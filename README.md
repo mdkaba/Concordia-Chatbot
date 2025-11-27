@@ -43,7 +43,7 @@ The frontend is built with React and TypeScript, featuring a responsive UI that 
 ## 📂 Project Structure
 
 ```
-📂Project2/
+📂Concordia-RAG-Chatbot/
 ├── backend/                  # Backend Python code
 │   ├── app/
 │   │   ├── agents/           # Agent implementations
